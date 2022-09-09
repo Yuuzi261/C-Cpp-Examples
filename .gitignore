@@ -1,0 +1,21 @@
+#vscode folder
+.vscode/
+
+#compiler
+*.ilk
+*.obj
+*.pdb
+
+#compressed file
+*.zip
+*.rar
+
+#executable file
+*.exe
+
+#makefile
+Makefile
+makefile
+
+#TEST folder
+TEST/
