@@ -1,7 +1,15 @@
-## Problem Solving and Program Design in C
+# C & C++ Examples
 
-![](https://i.imgur.com/cNum1tc.jpg)
+## The questions are from the following books
 
-## Absolute C++
+<li> Problem Solving and Program Design in C
 
-![](https://i.imgur.com/Pj1qN1W.png)
+<img src = "https://i.imgur.com/cNum1tc.jpg" width = "300px"></img>
+
+</li>
+
+<li>Absolute C++
+
+<img src = "https://i.imgur.com/Pj1qN1W.png" width = "300px"></img>
+
+</li>
