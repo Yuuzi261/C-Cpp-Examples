@@ -2,7 +2,7 @@
 
 ## The questions are from the following books
 
-<li> Problem Solving and Program Design in C
+<li>Problem Solving and Program Design in C
 
 <img src = "https://i.imgur.com/cNum1tc.jpg" width = "300px"></img>
 
